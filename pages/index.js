@@ -1,13 +1,9 @@
-
-function Home () {
-    return (
+function Home() {
+  return (
     <>
-    <h1> teste4</h1>
-    
+      <h1>Teste3</h1>
     </>
-)
-    
+  );
 }
 
-
-export default Home
+export default Home;
